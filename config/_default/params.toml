@@ -58,7 +58,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -67,7 +67,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
@@ -93,7 +93,7 @@ phone = "888 888 88 88"
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -118,7 +118,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "Alex F Wickeham.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
