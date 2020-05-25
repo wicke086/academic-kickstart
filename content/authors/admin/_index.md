@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student 
+role: Ph.D. Student 
 
 # Organizations/Affiliations
 organizations:
-- name: University of Minnesota 
-        Twin Cities
+- name: University of Minnesota-
+        Twin Cities,
         Department of Industrial and Systems Engineering
   url: "umn.edu"
 
@@ -66,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Alex Wickeham is currently a PhD student in the Department of Industrial and Systems Engineering at the University of Minnesota. He also earned his bachelor’s degree in mathematics from the University of Minnesota in 2017. His primary interests include queueing processes and stochastic modeling, particularly with connections to other fields such as computer science and abstract algebra. 
