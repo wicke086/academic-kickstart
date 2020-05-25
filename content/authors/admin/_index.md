@@ -14,7 +14,9 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Minnesota <br/><br/> Twin Cities <br/><br/> Department of Industrial and Systems Engineering
+- name: University of Minnesota 
+        Twin Cities
+        Department of Industrial and Systems Engineering
   url: "umn.edu"
 
 # Short bio (displayed in user profile at end of posts)
