@@ -14,11 +14,11 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Minnesota-Twin Cities
+- name: University of Minnesota Twin Cities Department of Industrial and Systems Engineering
   url: "umn.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include stochastic modeling with particular applications in queueing theory.
 
 interests:
 - Queueing Theory
