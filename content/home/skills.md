@@ -21,13 +21,13 @@ subtitle = ""
   description = "50%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = "python"
+  icon_pack = "fab"
   name = "Python"
   description = "90%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "Probability"
   description = "100%"
